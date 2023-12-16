@@ -1,0 +1,15 @@
+C:\Users\berna\OneDrive\Área de Trabalho\CelularDIO\CelularDIO\bin\Debug\net6.0\CelularDIO.exe
+C:\Users\berna\OneDrive\Área de Trabalho\CelularDIO\CelularDIO\bin\Debug\net6.0\CelularDIO.deps.json
+C:\Users\berna\OneDrive\Área de Trabalho\CelularDIO\CelularDIO\bin\Debug\net6.0\CelularDIO.runtimeconfig.json
+C:\Users\berna\OneDrive\Área de Trabalho\CelularDIO\CelularDIO\bin\Debug\net6.0\CelularDIO.dll
+C:\Users\berna\OneDrive\Área de Trabalho\CelularDIO\CelularDIO\bin\Debug\net6.0\CelularDIO.pdb
+C:\Users\berna\OneDrive\Área de Trabalho\CelularDIO\CelularDIO\obj\Debug\net6.0\CelularDIO.csproj.AssemblyReference.cache
+C:\Users\berna\OneDrive\Área de Trabalho\CelularDIO\CelularDIO\obj\Debug\net6.0\CelularDIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berna\OneDrive\Área de Trabalho\CelularDIO\CelularDIO\obj\Debug\net6.0\CelularDIO.AssemblyInfoInputs.cache
+C:\Users\berna\OneDrive\Área de Trabalho\CelularDIO\CelularDIO\obj\Debug\net6.0\CelularDIO.AssemblyInfo.cs
+C:\Users\berna\OneDrive\Área de Trabalho\CelularDIO\CelularDIO\obj\Debug\net6.0\CelularDIO.csproj.CoreCompileInputs.cache
+C:\Users\berna\OneDrive\Área de Trabalho\CelularDIO\CelularDIO\obj\Debug\net6.0\CelularDIO.dll
+C:\Users\berna\OneDrive\Área de Trabalho\CelularDIO\CelularDIO\obj\Debug\net6.0\refint\CelularDIO.dll
+C:\Users\berna\OneDrive\Área de Trabalho\CelularDIO\CelularDIO\obj\Debug\net6.0\CelularDIO.pdb
+C:\Users\berna\OneDrive\Área de Trabalho\CelularDIO\CelularDIO\obj\Debug\net6.0\CelularDIO.genruntimeconfig.cache
+C:\Users\berna\OneDrive\Área de Trabalho\CelularDIO\CelularDIO\obj\Debug\net6.0\ref\CelularDIO.dll
