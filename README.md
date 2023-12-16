@@ -1,0 +1,1 @@
+Desafio do bootcamp Decola Tech Avanade 2024 realizado na plataforma DIO, onde fui desafiado a ser responsável por modelar um sistema que trabalha com celulares. Para isso, foi solicitado que eu fizesse uma abstração de um celular e disponibilize maneiras de diferentes marcas e modelos terem seu próprio comportamento, possibilitando um maior reuso de código.
